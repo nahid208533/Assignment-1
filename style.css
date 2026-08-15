@@ -1,4 +1,4 @@
-nav{
+ nav{
     background-color: rgb(231, 229, 229);
     display: flex;
     justify-content: space-between;
@@ -29,4 +29,57 @@ nav div ul li a{
     color: white;
     font-weight: bold;
     font-size: 16px;
+
 }
+
+section{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-image: url(./picture/banner.jpg);
+    background-size: cover;
+    background-position: center;    
+    height: 600px;
+    width: 100%;
+}
+.banner-content{
+    font-size: 30px;
+    color: white;
+    padding-top:00px;
+    background-color: rgba(0, 0, 0, 0.5);
+    
+}
+.banner-content{
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0px  600px;
+    padding: 0px 50px;
+   
+    
+}
+.banner-content p{
+    font-size: 20px;
+    padding:0px 0px;
+    margin: 0px  600px;
+    
+}
+.banner-heading{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 1rem;
+    text-decoration: none;
+    text-align: center;
+
+     display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 1rem;
+    text-decoration: none;
+    text-align: center;
+ 
+    
+
+}
+
+
